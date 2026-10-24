@@ -1,0 +1,2 @@
+# The app uses Python's standard library and Tkinter.
+# No additional pip packages are required at the moment.
